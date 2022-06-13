@@ -1,1 +1,1 @@
-my first readme
+1.0 repo session
